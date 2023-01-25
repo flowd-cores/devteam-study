@@ -12,8 +12,6 @@
 ## 1. 기본 구성
 
     1. 플로우디에서 주로 쓰는 프레임워크
-        1. TS - Express 기본
-        2. GO - Echo 기본
     2. 데이터 베이스 선택
         1. MySQL vs MongoDB vs Redis 기본 개념 및 특징
             - 언어별 라이브러리
